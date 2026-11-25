@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# FineCalc
+
+Calculadoras financeiras feitas com opencode para fins pedagógicos.
+
+Landing page em Next.js para duas calculadoras gratuitas — financiamento
+imobiliário e juros compostos. Interface responsiva, com suporte a tema claro
+e escuro.
 
 ## Getting Started
 
